@@ -1,0 +1,59 @@
+body{
+
+    background-image: url(img/bg.png);
+
+    background-repeat: no-repeat;
+
+    background-attachment: fixed;
+
+    background-origin: border-box;
+
+    background-size: cover;
+
+}
+
+h1{
+
+    font-size: 30px;
+
+    color:black;
+
+}
+
+p{
+
+    font-size: 25px;
+
+    color:black;
+
+}
+
+li{
+
+    font-size: 20px;
+
+    color:black;
+
+}
+
+a{
+
+    color:black;
+
+}
+
+h2{
+
+    font-size: 30px;
+
+    color:red;
+
+}
+
+h3{
+
+    font-size: 20px;
+
+    color:rgb(255, 81, 0);
+
+}
